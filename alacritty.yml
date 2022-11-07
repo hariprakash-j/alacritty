@@ -30,7 +30,7 @@ colors:
 
 font:
   normal:
-    family: Ubuntu Nerd Font
+    family: Ubuntu Nerd Font Mono
     style: Regular
 
   bold:
@@ -38,11 +38,11 @@ font:
     style: Bold
 
   italic:
-    family: Ubuntu Nerd Font
+    family: Ubuntu Nerd Font Mono
     style: Italic
 
   bold_italic:
-    family: Ubuntu Nerd Font
+    family: Ubuntu Nerd Font Mono
     style: Bold Italic
 
   size: 13
